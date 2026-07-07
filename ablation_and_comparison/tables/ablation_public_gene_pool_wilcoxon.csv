@@ -1,0 +1,21 @@
+instance,metric,wo_pool_mean,w_pool_mean,p_value,note
+c1,n_bodies,2.0,2.0,1.0,all ties (identical)
+c1,h_total,5.64,5.642,0.5,
+c2,n_bodies,3.0,3.0,1.0,all ties (identical)
+c2,h_total,8.56,8.567,0.125,
+c3,n_bodies,4.0,4.0,1.0,all ties (identical)
+c3,h_total,11.184,11.552,0.00195,
+c4,n_bodies,5.0,5.0,1.0,all ties (identical)
+c4,h_total,14.2,14.354,0.00195,
+c5,n_bodies,6.0,6.0,1.0,all ties (identical)
+c5,h_total,17.122,17.313,0.00195,
+c6,n_bodies,7.0,7.0,1.0,all ties (identical)
+c6,h_total,19.74,20.181,0.00195,
+c7,n_bodies,8.0,8.0,1.0,all ties (identical)
+c7,h_total,22.76,23.206,0.00195,
+c8,n_bodies,9.0,9.0,1.0,all ties (identical)
+c8,h_total,25.353,25.754,0.00391,
+c9,n_bodies,10.0,10.0,1.0,all ties (identical)
+c9,h_total,28.306,28.593,0.00195,
+c10,n_bodies,11.0,11.0,1.0,all ties (identical)
+c10,h_total,31.35,31.757,0.00195,

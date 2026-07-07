@@ -48,6 +48,11 @@ figures/
                                      independent runs (mean ± std for the first
                                      stage; normalized optimality gap of each
                                      run for the second stage)
+ablation_and_comparison/             Ablation and comparison experiments
+                                     (baseline comparison vs FFD/BFD, four
+                                     ablations, and the sensitivity analysis);
+                                     figures (PDF + PNG) and summary tables — see
+                                     ablation_and_comparison/README.md
 ```
 
 ## Key results
